@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+/*
+#000000
+#CCCCCC
+#DAFF01
+#9353FF
+*/
+
+.btn.btn-purple {
+    background-color: #9353FF;
+    border-color: #9353FF;
+    color: white;
+}
+
+.btn.btn-purple:hover {
+    background-color: #7642CE;
+    border-color: #7642CE;
+    color: white;
+}
+
+.text-green {
+    color: #DAFF01;
+}
